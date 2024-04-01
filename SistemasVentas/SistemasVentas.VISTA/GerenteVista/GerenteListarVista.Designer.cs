@@ -142,7 +142,7 @@
             button14.Name = "button14";
             button14.Size = new Size(113, 23);
             button14.TabIndex = 26;
-            button14.Text = "DETALLE INGRESO";
+            button14.Text = "5 DETALLE INGRESO";
             button14.UseVisualStyleBackColor = false;
             button14.Click += button14_Click;
             // 
@@ -154,7 +154,7 @@
             button11.Name = "button11";
             button11.Size = new Size(113, 23);
             button11.TabIndex = 24;
-            button11.Text = "PRODUCTO";
+            button11.Text = "4 PRODUCTO";
             button11.UseVisualStyleBackColor = false;
             button11.Click += button11_Click;
             // 
@@ -166,7 +166,7 @@
             button3.Name = "button3";
             button3.Size = new Size(113, 23);
             button3.TabIndex = 15;
-            button3.Text = "TIPO PRODUCTO";
+            button3.Text = "9 TIPO PRODUCTO";
             button3.UseVisualStyleBackColor = false;
             button3.Click += button3_Click;
             // 
@@ -178,7 +178,7 @@
             button8.Name = "button8";
             button8.Size = new Size(113, 23);
             button8.TabIndex = 21;
-            button8.Text = "CLIENTE";
+            button8.Text = "1 CLIENTE";
             button8.UseVisualStyleBackColor = false;
             button8.Click += button8_Click;
             // 
@@ -190,7 +190,7 @@
             button9.Name = "button9";
             button9.Size = new Size(113, 23);
             button9.TabIndex = 22;
-            button9.Text = "INGRESO";
+            button9.Text = "7 INGRESO";
             button9.UseVisualStyleBackColor = false;
             button9.Click += button9_Click;
             // 
@@ -202,7 +202,7 @@
             button6.Name = "button6";
             button6.Size = new Size(113, 23);
             button6.TabIndex = 19;
-            button6.Text = "VENDEDOR";
+            button6.Text = "6 VENDEDOR";
             button6.UseVisualStyleBackColor = false;
             button6.Click += button6_Click;
             // 
@@ -214,7 +214,7 @@
             button5.Name = "button5";
             button5.Size = new Size(110, 23);
             button5.TabIndex = 18;
-            button5.Text = "PROVEEDOR";
+            button5.Text = "2 PROVEEDOR";
             button5.UseVisualStyleBackColor = false;
             button5.Click += button5_Click;
             // 
@@ -226,7 +226,7 @@
             button4.Name = "button4";
             button4.Size = new Size(113, 23);
             button4.TabIndex = 16;
-            button4.Text = "MARCA";
+            button4.Text = "3 MARCA";
             button4.UseVisualStyleBackColor = false;
             button4.Click += button4_Click;
             // 
@@ -238,7 +238,7 @@
             button1.Name = "button1";
             button1.Size = new Size(113, 23);
             button1.TabIndex = 13;
-            button1.Text = "PERSONA";
+            button1.Text = "8 PERSONA";
             button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
             // 
